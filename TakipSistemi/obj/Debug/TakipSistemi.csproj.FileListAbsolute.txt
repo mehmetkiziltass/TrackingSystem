@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\bin\Debug\TakipSistemi.exe.config
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\bin\Debug\TakipSistemi.exe
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\bin\Debug\TakipSistemi.pdb
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Form1.resources
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Properties.Resources.resources
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.exe
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.pdb
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Form2.resources
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Form3.resources
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Form4.resources
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Form5.resources
+C:\Users\hp\source\repos\TakipSistemi\TakipSistemi\obj\Debug\TakipSistemi.Authentication.resources
